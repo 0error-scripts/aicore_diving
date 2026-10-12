@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_diving'
-repository 'https://github.com/0error-scripts/aicore_diving'
+repository 'https://github.com/aicore-fivem/aicore_diving'
 version '1.1.1'
 
 ox_lib 'locale'

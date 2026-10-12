@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_diving')
+lib.versionCheck('aicore-fivem/aicore_diving')
 assert(lib.checkDependency('ox_lib', '3.20.0', true))
 
 local logger = require '@aicore.modules.logger'

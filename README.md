@@ -1,11 +1,11 @@
-![image-2](https://github.com/0error-scripts/aicore_diving/assets/3579092/7619ca8c-ba4e-4c55-a5ba-7d889473934e)
+![image-2](https://github.com/aicore-fivem/aicore_diving/assets/3579092/7619ca8c-ba4e-4c55-a5ba-7d889473934e)
 
 # aicore_diving
 
 Collect and sell coral with aicore_diving, a coral/item collection resource that's easy to modify and build on.
 
 Recommended Resources:
-- [aicore_divegear](https://github.com/0error-scripts/aicore_divegear) (if you want to be able to breathe underwater...)
+- [aicore_divegear](https://github.com/aicore-fivem/aicore_divegear) (if you want to be able to breathe underwater...)
 
 # Features
 
@@ -44,11 +44,11 @@ Add the following items to your items.lua file if you don't have them already in
 
 How debug zones appear when turned on:
 
-![image-3](https://github.com/0error-scripts/aicore_diving/assets/3579092/2189e9ed-367a-4d88-9850-a5e80c152955)
+![image-3](https://github.com/aicore-fivem/aicore_diving/assets/3579092/2189e9ed-367a-4d88-9850-a5e80c152955)
 
 How the blip appears on the world map:
 
-![image-4](https://github.com/0error-scripts/aicore_diving/assets/3579092/b7fc3ccc-b694-4cfb-9b89-35964f1102f2)
+![image-4](https://github.com/aicore-fivem/aicore_diving/assets/3579092/b7fc3ccc-b694-4cfb-9b89-35964f1102f2)
 
 > Rebranded from [Qbox-project/qbx_diving](https://github.com/Qbox-project/qbx_diving) under GPL-3.0. Original work © QBox Project contributors.
 
